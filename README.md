@@ -23,7 +23,9 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for the home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
 
-[Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
+[Click here for the about page example](
+    
+)
 
 ## Self-Study Questions 
 ### (please edit this file and write your answer below each question. In addition, you may also review these questions with your mentor)
