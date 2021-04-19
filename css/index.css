@@ -55,7 +55,33 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
+header{
+    
+    margin: 0 auto;
+}
+.header-1 {
+    display:flex;
+width:100%;
+}
+.header-1 nav {
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width:75% 
+}
 
+.header-1 nav a {
+    text-decoration: none;
+    color:black;
+    font-size: small;
+}
+#lambda-logo{
+    width:23% 
+}
+#jumbo{
+    margin-top:20px;
+    margin-bottom:20px;
+}
 h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
@@ -111,7 +137,36 @@ p {
     align-items: center;
     justify-content: center;
 }
-
+.middle-content .boxes :nth-child(1){
+    background-color: teal;
+}
+.middle-content .boxes :nth-child(2){
+    background-color: gold;
+}
+.middle-content .boxes :nth-child(3){
+    background-color: cadetblue;
+}
+.middle-content .boxes :nth-child(4){
+    background-color: coral;
+}
+.middle-content .boxes :nth-child(5){
+    background-color: crimson;
+}
+.middle-content .boxes :nth-child(6){
+    background-color: forestgreen;
+}
+.middle-content .boxes :nth-child(7){
+    background-color: darkorchid;
+}
+.middle-content .boxes :nth-child(8){
+    background-color: hotpink;
+}
+.middle-content .boxes :nth-child(9){
+    background-color: indigo;
+}
+.middle-content .boxes :nth-child(10){
+    background-color: dodgerblue;
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
